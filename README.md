@@ -1,4 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/_DZOhMZe)
+
 # Demo Spiel mit Phaser 3
 
 In diesem Projekt erarbeiten wir ein Demo Spiel mit der Game-Engine Phaser. Als
@@ -63,3 +64,10 @@ folgt, ist es am besten wenn Sie die Schritte einfach von der
 [Webseite hier](https://gymmu.github.io/gym-inf/game) übernehemen. Lesen aber
 alles durch was Sie hier machen, Sie sollen später auch im Stande sein das ganze
 selber zu machen.
+
+```javascript
+while (true) {
+  update()
+  draw()
+}
+```

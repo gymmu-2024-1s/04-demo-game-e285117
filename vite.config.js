@@ -15,11 +15,3 @@ export default defineConfig({
 
   base: "/phaser-playground/",
 })
-
-//Wie funktioniert eine Game-Engine (Game-Loop)
-while (true) {
-  uptade()
-  draw()
-}
-
-//Szenen und Ressourcen laden
