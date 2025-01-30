@@ -1,4 +1,4 @@
-import { defineConfig } from "vite";
+import { defineConfig } from "vite"
 
 export default defineConfig({
   define: {
@@ -14,4 +14,4 @@ export default defineConfig({
   },
 
   base: "/phaser-playground/",
-});
+})
